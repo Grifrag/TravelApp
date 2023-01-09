@@ -1,6 +1,6 @@
 /* eslint-disable react/jsx-no-comment-textnodes */
 import React from 'react';
-import Home from '../TravelApp/Home';
+import Home from './src/screens/Home';
 
 
 const App = () => {
