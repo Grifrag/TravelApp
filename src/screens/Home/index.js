@@ -1,6 +1,6 @@
 import React from 'react';
 import { SafeAreaView, View } from 'react-native';
-import Title from './title';
+import Title from '../../components/Title';
 
 const Home = () => {
     return (
