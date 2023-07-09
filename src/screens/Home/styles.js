@@ -3,6 +3,7 @@ import { StyleSheet } from 'react-native';
 const styles = StyleSheet.create({
     container: {
         margin: 32,
+        backgroundColor: '#FFFFFF',
     },
     subtitle: {
         fontSize: 20,
