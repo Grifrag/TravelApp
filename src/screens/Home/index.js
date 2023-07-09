@@ -12,10 +12,11 @@ const Home = () => {
                 <Title text='you want to go?'/>
                 <Title text='Explore Locations' style={styles.subtitle}/>
 
-                <Categories selectedCategory='All' categories={['All', 'Popular', 'Historical', 'Trending', 'New', 'Most Viewd']}/>
+                <Categories selectedCategory='All' categories={['All', 'Popular', 'Historical', 'Trending', 'New', 'Most Viewed']}/>
             </View>
         </SafeAreaView>
     );
 };
 
 export default React.memo(Home);
+
